@@ -1,6 +1,7 @@
 <?xml version = "1.0" encoding = "utf-8" ?>
 
-<timetable xmlns:xsi="lessons_XML.xml">
+<timetable xmlns="http://www.w3.org/2001/XMLSchema-instance"
+schemaLocation="http://msiter.ru lessons_XML.xsd">>
 	<subjects>
 		<subject id = "1">
 			<name>Технологии программирования</name>
